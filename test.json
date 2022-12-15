@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "disgnation": "Software-Developer",
+      "empId": "EMPWPT1429",
+      "name": "Prakhyath"
+    },
+    {
+      "id": 2,
+      "disgnation": "Software-Developer",
+      "empId": "EMPWPT1427",
+      "name": "Kahkeshan"
+    },
+    {
+      "id": 1,
+      "disgnation": "Software-Developer",
+      "empId": "EMPWPT1428",
+      "name": "Meghana"
+    },
+    {
+      "id": 1,
+      "disgnation": "Software-Developer",
+      "empId": "EMPWPT1430",
+      "name": "Santhoshini"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Chintu",
+      "course": "Full-stack"
+    },
+    {
+      "id": 2,
+      "name": "Golu",
+      "course": "Full-stack"
+    },
+    {
+      "id": 3,
+      "name": "Dolu",
+      "course": "Full-stack"
+    },
+    {
+      "id": 4,
+      "name": "Seethu",
+      "course": "Full-stack"
+    },
+    {
+      "name": "Mounika",
+      "email": "mouni@jpsjd",
+      "password": "dfdfdf",
+      "id": 5
+    }
+  ],
+  "profile": [
+    {
+      "name": "Harish",
+      "designation": "Admin-Member",
+      "salary": "12K"
+    },
+    {
+      "name": "Harish",
+      "designation": "Admin-Member",
+      "salary": "12K"
+    },
+    {
+      "name": "Harish",
+      "designation": "Admin-Member",
+      "salary": "12K"
+    }
+  ]
+}

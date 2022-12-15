@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "book": "angular-basics"
+    }
+  ],
+  "comments": [
+    {
+      "name": "Kahkesha",
+      "email": "shan@optevus.in",
+      "password": "",
+      "id": 1,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "Kahkeshan",
+      "email": "shan@optevus.in",
+      "password": "",
+      "id": 2,
+      "Image": "./assets/images/hammer.png"
+    },
+    {
+      "name": "Prakhyath Gujje",
+      "email": "gujjeprakhyath",
+      "password": "jghokdlf",
+      "id": 3,
+      "Image": "./assets/images/leaf_rake.png"
+    },
+    {
+      "name": "Prakhyath Gujje",
+      "email": "pijeni7986@pamaweb.com",
+      "password": "frhgged",
+      "id": 4,
+      "Image": "./assets/images/logo.jpg"
+    },
+    {
+      "name": "Meghan",
+      "email": "megha@sft.ckd",
+      "password": "ffyjhyrfg",
+      "id": 5,
+      "Image": "./assets/images/M_bg.jpg"
+    },
+    {
+      "name": "Prakhyath Gujje",
+      "email": "pijeni7986@pamaweb.com",
+      "password": "sdfcsdfcdvf",
+      "id": 6,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "Meghan",
+      "email": "megha@sft.ckd",
+      "password": "hygvjugtf",
+      "id": 7,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "gunji",
+      "email": "fgfdgf@gfgf",
+      "password": "gfgfbfbg",
+      "id": 8,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "hgtghgtfg",
+      "email": "ffgfgfrgrftg",
+      "password": "rfgrtetgfrctg",
+      "id": 9,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "Mounika",
+      "email": "mouni@jpsjd",
+      "password": "lkflkdjfdlf",
+      "id": 10,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "Mounika",
+      "email": "mouni@jpsjd",
+      "password": "lkflkdjfdlf",
+      "id": 11,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "Mounika",
+      "email": "mouni@jpsjd",
+      "password": "lkflkdjfdlf",
+      "id": 12,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "Naresh",
+      "email": "naresh@gmak",
+      "password": "kfdkjfdlk",
+      "id": 13,
+      "Image": "./assets/images/garden_cart.png"
+    },
+    {
+      "name": "moobin",
+      "email": "mubine@dfjdlkfjd",
+      "password": "kfjdlfjf",
+      "id": 14
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
